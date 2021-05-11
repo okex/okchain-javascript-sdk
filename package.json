@@ -29,7 +29,7 @@
     "events": "^3.0.0",
     "is_js": "^0.9.0",
     "keccak": "^3.0.1",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "ndjson": "^1.5.0",
     "protocol-buffers-encodings": "^1.1.0",
     "pumpify": "^1.5.1",

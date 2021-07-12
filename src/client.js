@@ -15,19 +15,19 @@ const mode = "block"
 const nativeDenom = "okt"
 const defaultTestnetFee = {
     amount: [{
-        amount: "0.050000000000000000",
+        amount: "0.000020000000000000",
         denom: nativeDenom,
 
     }],
-    gas: "500000",
+    gas: "200000",
 }
 const defaultMainnetFee = {
     amount: [{
-        amount: "0.000500000000000000",
+        amount: "0.000020000000000000",
         denom: nativeDenom,
 
     }],
-    gas: "500000",
+    gas: "200000",
 }
 var defaultFee = defaultMainnetFee
 const precision = 18
